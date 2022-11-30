@@ -1,0 +1,21 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx2d7cc4e4293ca45c",
+# 公众号appSecret
+"app_secret": "4554f1ba315d9f416e4615eb40bbd75b",
+# 模板消息id
+"template_id": "KvIjjIc4Ytv_la7M4EzGJGwvd1hymkbQ1QOqQPW2KJY",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ofxJw5yzneWI18X2Q5rc3A1eQgQE","ofxJw59Am82Bh1LjkSFsf9JX1QX0"],
+
+# 信息配置
+# 所在省份
+"province": "四川",
+# 所在城市
+"city": "南充",
+# 生日
+"birthday": "2023-01-21",
+# 在一起的日子，格式同上
+"love_date": "2022-06-15"
+}
